@@ -1,0 +1,11 @@
+(librepcb_library 8f9d7aa8-c7aa-458a-a628-22e44e37a259
+ (name "Membrane Buttons")
+ (description "Membrane Buttons")
+ (keywords "")
+ (author "MR")
+ (version "0.1")
+ (created 2024-08-20T11:32:09Z)
+ (deprecated false)
+ (url "")
+ (manufacturer "")
+)
